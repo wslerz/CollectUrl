@@ -22,8 +22,7 @@
 
 [侧滑  ：EasySwipeMenuLayout](https://github.com/anzaizai/EasySwipeMenuLayout)
 
-[强大而灵活的RecyclerView Adapter ： BaseRecyclerViewAdapterHelper]
-(https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+[RecyclerView Adapter ： BaseRecyclerViewAdapterHelpe](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 
 [沉浸式状态栏和沉浸式导航栏管理 ：ImmersionBar](https://github.com/gyf-dev/ImmersionBar)
 
@@ -31,9 +30,7 @@
 
 [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
 
-[今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案：AndroidAutoSize]
-
-(https://github.com/JessYanCoding/AndroidAutoSize)
+[Android 屏幕适配方案：AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)
 
 [glide](https://github.com/bumptech/glide)
 
