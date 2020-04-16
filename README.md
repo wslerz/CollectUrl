@@ -23,7 +23,6 @@
 [侧滑  ：EasySwipeMenuLayout](https://github.com/anzaizai/EasySwipeMenuLayout)
 
 [强大而灵活的RecyclerView Adapter ： BaseRecyclerViewAdapterHelper]
-
 (https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 
 [沉浸式状态栏和沉浸式导航栏管理 ：ImmersionBar](https://github.com/gyf-dev/ImmersionBar)
