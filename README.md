@@ -4,6 +4,7 @@
 ## 网页链接
 
 [Markdown: Basics （快速入门）](https://www.appinn.com/markdown/)
+
 [谈谈我的理解-组件化/模块化](https://www.jianshu.com/p/79e4df63f31f)
 
 
@@ -12,16 +13,31 @@
 ### 第三方
 
 [Android智能下拉刷新框架  ：SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
+
 [EventBus](https://github.com/greenrobot/EventBus)
+
 [强大、可定制、易扩展的 ViewPager 指示器框架 ： MagicIndicator](https://github.com/hackware1993/MagicIndica)
+
 [时间选择器、省市区三级联动  ：Android-PickerView](https://github.com/Bigkoo/Android-PickerView)
+
 [侧滑  ：EasySwipeMenuLayout](https://github.com/anzaizai/EasySwipeMenuLayout)
-[强大而灵活的RecyclerView Adapter ： BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+
+[强大而灵活的RecyclerView Adapter ： BaseRecyclerViewAdapterHelper]
+
+(https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+
 [沉浸式状态栏和沉浸式导航栏管理 ：ImmersionBar](https://github.com/gyf-dev/ImmersionBar)
+
 [Retrofit](https://github.com/square/retrofit)
+
 [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
-[今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案：AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)
+
+[今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案：AndroidAutoSize]
+
+(https://github.com/JessYanCoding/AndroidAutoSize)
+
 [glide](https://github.com/bumptech/glide)
+
 [RxJava](https://github.com/ReactiveX/RxJava)
 
 
