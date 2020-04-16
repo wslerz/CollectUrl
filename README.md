@@ -1,20 +1,19 @@
-# CollectUrl
+# CollectUtil
+
 保存一下常用的地址
+
 ##网页链接
-###Markdown
 
 [Markdown: Basics （快速入门）](https://www.appinn.com/markdown/)
-
-### 组件化
-
 [谈谈我的理解-组件化/模块化](https://www.jianshu.com/p/79e4df63f31f)
 
 ##常用的库
+
 ###第三方
 
 [Android智能下拉刷新框架  ：SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
 [EventBus](https://github.com/greenrobot/EventBus)
-[强大、可定制、易扩展的 ViewPager 指示器框架 ： MagicIndicator](https://github.com/hackware1993/MagicIndicator)
+[强大、可定制、易扩展的 ViewPager 指示器框架 ： MagicIndicator](https://github.com/hackware1993/MagicIndica)
 [时间选择器、省市区三级联动  ：Android-PickerView](https://github.com/Bigkoo/Android-PickerView)
 [侧滑  ：EasySwipeMenuLayout](https://github.com/anzaizai/EasySwipeMenuLayout)
 [强大而灵活的RecyclerView Adapter ： BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
@@ -26,6 +25,7 @@
 [RxJava](https://github.com/ReactiveX/RxJava)
 
 ###原生
+
 ~~~
 android = [
             "targetSdkVersion"      : 29,
