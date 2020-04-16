@@ -1,15 +1,15 @@
 # CollectUtil
 
-保存一下常用的地址
 
-##网页链接
+## 网页链接
 
 [Markdown: Basics （快速入门）](https://www.appinn.com/markdown/)
 [谈谈我的理解-组件化/模块化](https://www.jianshu.com/p/79e4df63f31f)
 
-##常用的库
 
-###第三方
+## 常用的库
+
+### 第三方
 
 [Android智能下拉刷新框架  ：SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
 [EventBus](https://github.com/greenrobot/EventBus)
@@ -24,8 +24,8 @@
 [glide](https://github.com/bumptech/glide)
 [RxJava](https://github.com/ReactiveX/RxJava)
 
-###原生
 
+### 原生
 ~~~
 android = [
             "targetSdkVersion"      : 29,
